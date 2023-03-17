@@ -7,15 +7,26 @@ namespace exemplo_fundamentos.Models
 {
     public class Pessoa
     {
+        
+        public Pessoa()
+        {
+            
+        }
+        public Pessoa(string nome, string sobrenome)
+        {
+            Nome = nome;
+            Sobrenome = sobrenome;
+        }
+
+
+
+
         private string _nome;
+        private int _idade;
 
         public string Nome
         {
-            get
-            {
-                return _nome.ToUpper();
-            }
-            
+            get => _nome.ToUpper();
             
             set
             {
@@ -27,7 +38,26 @@ namespace exemplo_fundamentos.Models
                 _nome = value;
             } 
         }
-        public int Idade { get; set; }
+
+        public string Sobrenome {get; set;}
+
+        public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
+
+
+        public int Idade
+        {
+            get => _idade;
+
+            set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentException("A idade não pode ser menor que zero");
+                }
+
+                _idade = value;
+            }
+        }
 
         public void Apresentar()
         {

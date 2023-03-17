@@ -1,8 +1,14 @@
 ﻿using exemplo_fundamentos.Models;
 
 
-Pessoa p1 = new Pessoa();
+Pessoa p1 = new Pessoa(nome: "Cássio", sobrenome: "Daniel");
+Pessoa p2 = new Pessoa(nome: "Renato", sobrenome: "Pascarelli");
 
-p1.Nome = "Cassio";
-p1.Idade = 33;
-p1.Apresentar();
+
+Curso cursoDeIngles = new Curso();
+cursoDeIngles.Nome = "Inglês";
+cursoDeIngles.Alunos = new List<Pessoa>();
+
+cursoDeIngles.AdicionarAluno(p1);
+cursoDeIngles.AdicionarAluno(p2);
+cursoDeIngles.ListarAlunos();
