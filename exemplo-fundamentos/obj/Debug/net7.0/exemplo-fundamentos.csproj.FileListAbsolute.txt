@@ -1,0 +1,15 @@
+C:\Dev\Git\DIO\dio-desafio-github-primeiro-repositorio\exemplo-fundamentos\bin\Debug\net7.0\exemplo-fundamentos.exe
+C:\Dev\Git\DIO\dio-desafio-github-primeiro-repositorio\exemplo-fundamentos\bin\Debug\net7.0\exemplo-fundamentos.deps.json
+C:\Dev\Git\DIO\dio-desafio-github-primeiro-repositorio\exemplo-fundamentos\bin\Debug\net7.0\exemplo-fundamentos.runtimeconfig.json
+C:\Dev\Git\DIO\dio-desafio-github-primeiro-repositorio\exemplo-fundamentos\bin\Debug\net7.0\exemplo-fundamentos.dll
+C:\Dev\Git\DIO\dio-desafio-github-primeiro-repositorio\exemplo-fundamentos\bin\Debug\net7.0\exemplo-fundamentos.pdb
+C:\Dev\Git\DIO\dio-desafio-github-primeiro-repositorio\exemplo-fundamentos\obj\Debug\net7.0\exemplo-fundamentos.csproj.AssemblyReference.cache
+C:\Dev\Git\DIO\dio-desafio-github-primeiro-repositorio\exemplo-fundamentos\obj\Debug\net7.0\exemplo-fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Git\DIO\dio-desafio-github-primeiro-repositorio\exemplo-fundamentos\obj\Debug\net7.0\exemplo-fundamentos.AssemblyInfoInputs.cache
+C:\Dev\Git\DIO\dio-desafio-github-primeiro-repositorio\exemplo-fundamentos\obj\Debug\net7.0\exemplo-fundamentos.AssemblyInfo.cs
+C:\Dev\Git\DIO\dio-desafio-github-primeiro-repositorio\exemplo-fundamentos\obj\Debug\net7.0\exemplo-fundamentos.csproj.CoreCompileInputs.cache
+C:\Dev\Git\DIO\dio-desafio-github-primeiro-repositorio\exemplo-fundamentos\obj\Debug\net7.0\exemplo-fundamentos.dll
+C:\Dev\Git\DIO\dio-desafio-github-primeiro-repositorio\exemplo-fundamentos\obj\Debug\net7.0\refint\exemplo-fundamentos.dll
+C:\Dev\Git\DIO\dio-desafio-github-primeiro-repositorio\exemplo-fundamentos\obj\Debug\net7.0\exemplo-fundamentos.pdb
+C:\Dev\Git\DIO\dio-desafio-github-primeiro-repositorio\exemplo-fundamentos\obj\Debug\net7.0\exemplo-fundamentos.genruntimeconfig.cache
+C:\Dev\Git\DIO\dio-desafio-github-primeiro-repositorio\exemplo-fundamentos\obj\Debug\net7.0\ref\exemplo-fundamentos.dll
